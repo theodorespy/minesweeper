@@ -1,12 +1,11 @@
 ﻿  Source.cpp
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(119,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(120,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(123,77): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(82,77): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(123,49): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(82,49): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
           with
           [
               T=float

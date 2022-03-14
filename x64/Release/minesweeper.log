@@ -1,19 +1,18 @@
 ﻿  Source.cpp
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(47,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(48,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(51,87): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(82,77): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(51,58): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\theod\source\repos\minesweeper\minesweeper\Source.cpp(82,49): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
           with
           [
               T=float
           ]
   Generating code
-  123 of 124 functions (99.2%) were compiled, the rest were copied from previous compilation.
-    120 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  150 of 253 functions (59.3%) were compiled, the rest were copied from previous compilation.
+    129 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   minesweeper.vcxproj -> C:\Users\theod\source\repos\minesweeper\x64\Release\minesweeper.exe
